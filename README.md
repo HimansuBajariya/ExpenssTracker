@@ -116,3 +116,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Bootstrap for responsive design
 - Entity Framework Core for data access
 - ASP.NET Core team for the amazing framework
+
+##ScreenShots 
+<img width="1906" height="958" alt="Screenshot 2025-10-29 201242" src="https://github.com/user-attachments/assets/6b6eafa1-1032-4d80-97f0-034887b2d237" />
+
