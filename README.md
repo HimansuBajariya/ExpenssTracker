@@ -119,4 +119,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ##ScreenShots 
 <img width="1906" height="958" alt="Screenshot 2025-10-29 201242" src="https://github.com/user-attachments/assets/6b6eafa1-1032-4d80-97f0-034887b2d237" />
+<img width="1907" height="967" alt="Screenshot 2025-10-29 201108" src="https://github.com/user-attachments/assets/731f722f-4996-4698-a8c4-c406d056de10" />
+<img width="1907" height="967" alt="Screenshot 2025-10-29 201020" src="https://github.com/user-attachments/assets/a5782dc6-abeb-4efe-af7b-fedc216983ea" />
+<img width="1901" height="959" alt="Screenshot 2025-10-29 200952" src="https://github.com/user-attachments/assets/a2c425f9-dd43-4cdc-98de-21618ea08a17" />
 
