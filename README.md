@@ -11,7 +11,7 @@ A comprehensive expense tracking application built with ASP.NET Core MVC that he
 
 ## Technology Stack
 
-- **Framework**: ASP.NET Core MVC (.NET 6.0)
+- **Framework**: ASP.NET Core MVC (.NET 9.0)
 - **Database**: Entity Framework Core
 - **Front-end**: 
   - Bootstrap
@@ -54,7 +54,7 @@ Expense Tracker/
 ## Getting Started
 
 1. **Prerequisites**
-   - .NET 6.0 SDK
+   - .NET 9.0 SDK
    - Visual Studio 2022 or VS Code
    - SQL Server (LocalDB or higher)
 
