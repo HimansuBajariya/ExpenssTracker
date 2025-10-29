@@ -56,7 +56,7 @@ Expense Tracker/
 1. **Prerequisites**
    - .NET 9.0 SDK
    - Visual Studio 2022 or VS Code
-   - SQL Server (LocalDB or higher)
+   - SQL Server (LocalDB or higher)Download : https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x4009&culture=en-in&country=in
 
 2. **Setup**
    ```bash
