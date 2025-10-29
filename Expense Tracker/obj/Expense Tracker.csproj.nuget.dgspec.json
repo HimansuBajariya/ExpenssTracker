@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Test\\test1\\Expense-Tracker-App-in-Asp.Net-Core-MVC\\Expense Tracker\\Expense Tracker.csproj": {}
+    "E:\\Test\\DotnetProject\\Expense Tracker\\Expense Tracker.csproj": {}
   },
   "projects": {
-    "E:\\Test\\test1\\Expense-Tracker-App-in-Asp.Net-Core-MVC\\Expense Tracker\\Expense Tracker.csproj": {
+    "E:\\Test\\DotnetProject\\Expense Tracker\\Expense Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Test\\test1\\Expense-Tracker-App-in-Asp.Net-Core-MVC\\Expense Tracker\\Expense Tracker.csproj",
+        "projectUniqueName": "E:\\Test\\DotnetProject\\Expense Tracker\\Expense Tracker.csproj",
         "projectName": "Expense Tracker",
-        "projectPath": "E:\\Test\\test1\\Expense-Tracker-App-in-Asp.Net-Core-MVC\\Expense Tracker\\Expense Tracker.csproj",
+        "projectPath": "E:\\Test\\DotnetProject\\Expense Tracker\\Expense Tracker.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\Test\\test1\\Expense-Tracker-App-in-Asp.Net-Core-MVC\\Expense Tracker\\obj\\",
+        "outputPath": "E:\\Test\\DotnetProject\\Expense Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
